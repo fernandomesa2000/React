@@ -1,10 +1,10 @@
 import './App.css';
-import UseReducer from './components/UseReducer';
+import EmbeddedAssets from './components/module3/EmbeddedAssets';
+
 function App() {
+
   return (
-    <div className='App'>
-      <UseReducer/>
-    </div>
+    <EmbeddedAssets/>
   );
 }
 
