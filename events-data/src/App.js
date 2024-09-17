@@ -1,11 +1,11 @@
-import './App.css';
-import EmbeddedAssets from './components/module3/EmbeddedAssets';
-
+import "./App.css";
+import Appsita from "./components/AdvancedReact/KeysList";
 function App() {
-
   return (
-    <EmbeddedAssets/>
-  );
+    <div>
+        <Appsita/>
+    </div>
+  )
 }
 
 export default App;
