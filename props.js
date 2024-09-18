@@ -62,3 +62,9 @@ El contenido interior que irá dentro del elemento envolvente. Es lo que hace po
 
 En esta lectura aprendió a usar un transpilador para descomponer el código JSX en JavaScript plano, lo que hace que su propósito sea más comprensible.
 */
+
+
+
+// Component: Small piece of functionality
+
+// Module: Series of components

@@ -1,4 +1,4 @@
-import { useMealsListContext } from "../providers/MealsProvider";
+import { useMealsListContext } from "../../providers/MealsProvider";
 
 const Counter = () => {
 
