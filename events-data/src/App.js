@@ -1,10 +1,7 @@
-
-import "./App.css";
-import Root from "./components/AdvancedReact/Lab3ThemeSwitch";
-
+import LiveOrders from "./components/AdvancedReact/module2/JSXChild";
 function App() {
   return (
-    <Root/>
+    <LiveOrders/>
   );
 }
 
