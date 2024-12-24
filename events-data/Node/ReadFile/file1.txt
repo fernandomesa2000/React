@@ -1,0 +1,3 @@
+Archivito 1 en español pai
+
+npm install standard -D
